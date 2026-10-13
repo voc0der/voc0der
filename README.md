@@ -1,4 +1,5 @@
-# Hi, I'm voc0der
+# 👋 Hi, I'm voc0der
+🕓 ***Joined Github 10 years ago***
 
 Full stack developer. I build tools for self-hosting, media libraries, and gaming.
 
