@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="680" height="461" viewBox="0 0 680 461" role="img" aria-labelledby="title description">
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="495" viewBox="0 0 680 495" role="img" aria-labelledby="title description">
 <title id="title">Upstream contributions</title>
-<desc id="description">13 merged pull requests across 8 projects and 1 open pull requests. Only public pull requests to repositories owned by others are included. Closed, unmerged proposals are omitted.</desc>
+<desc id="description">14 merged pull requests across 9 projects and 1 open pull requests. Only public pull requests to repositories owned by others are included. Closed, unmerged proposals are omitted.</desc>
 <style>text{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;font-size:14px} .small{font-size:12px} .number{font-variant-numeric:tabular-nums}</style>
-<rect width="680" height="461" rx="8" fill="#ffffff"/>
+<rect width="680" height="495" rx="8" fill="#ffffff"/>
 <g fill="none" stroke="#656d76" stroke-width="1.5" transform="translate(15 15)"><circle cx="4" cy="3" r="2.5"/><circle cx="4" cy="17" r="2.5"/><circle cx="16" cy="3" r="2.5"/><path d="M4 5.5v9M16 5.5v2.5c0 4-12 2-12 6"/></g>
 <text x="44" y="32" fill="#0969da" style="font-size:19px;font-weight:600">Upstream contributions</text>
-<text x="16" y="60" fill="#656d76" >13 merged pull requests across 8 projects</text>
+<text x="16" y="60" fill="#656d76" >14 merged pull requests across 9 projects</text>
 <text x="650" y="60" fill="#1a7f37" text-anchor="end">1 open</text>
 <text x="16" y="99" fill="#656d76" class="small">PROJECT</text>
 <text x="574" y="99" fill="#656d76" class="small" text-anchor="end">MERGED</text>
@@ -46,34 +46,41 @@
 <text x="574" y="273" fill="#8250df" class="number" text-anchor="end">1</text>
 <text x="650" y="273" fill="#656d76" class="number" text-anchor="end">—</text>
 </g>
-<g><title>johannes-do/botty</title>
-<text x="16" y="307" fill="#0969da" style="font-size:13px">johannes-do/botty</text>
+<g><title>jessielw/Reclaimerr</title>
+<text x="16" y="307" fill="#0969da" style="font-size:13px">jessielw/Reclaimerr</text>
 <rect x="412" y="299" width="80" height="5" rx="2.5" fill="#eaeef2"/>
 <rect x="412.00" y="299" width="26.67" height="5" fill="#8250df"/>
 <text x="574" y="307" fill="#8250df" class="number" text-anchor="end">1</text>
 <text x="650" y="307" fill="#656d76" class="number" text-anchor="end">—</text>
 </g>
-<g><title>sbruggeman/pwrstat-api</title>
-<text x="16" y="341" fill="#0969da" style="font-size:13px">sbruggeman/pwrstat-api</text>
+<g><title>johannes-do/botty</title>
+<text x="16" y="341" fill="#0969da" style="font-size:13px">johannes-do/botty</text>
 <rect x="412" y="333" width="80" height="5" rx="2.5" fill="#eaeef2"/>
 <rect x="412.00" y="333" width="26.67" height="5" fill="#8250df"/>
 <text x="574" y="341" fill="#8250df" class="number" text-anchor="end">1</text>
 <text x="650" y="341" fill="#656d76" class="number" text-anchor="end">—</text>
 </g>
-<g><title>tedhinklater/Jellyfin-Featured-Content-Bar</title>
-<text x="16" y="375" fill="#0969da" style="font-size:13px">tedhinklater/Jellyfin-Featured-Content-Bar</text>
+<g><title>sbruggeman/pwrstat-api</title>
+<text x="16" y="375" fill="#0969da" style="font-size:13px">sbruggeman/pwrstat-api</text>
 <rect x="412" y="367" width="80" height="5" rx="2.5" fill="#eaeef2"/>
 <rect x="412.00" y="367" width="26.67" height="5" fill="#8250df"/>
 <text x="574" y="375" fill="#8250df" class="number" text-anchor="end">1</text>
 <text x="650" y="375" fill="#656d76" class="number" text-anchor="end">—</text>
 </g>
-<g><title>damontecres/jellyfin-plugin-wholphin</title>
-<text x="16" y="409" fill="#0969da" style="font-size:13px">damontecres/jellyfin-plugin-wholphin</text>
+<g><title>tedhinklater/Jellyfin-Featured-Content-Bar</title>
+<text x="16" y="409" fill="#0969da" style="font-size:13px">tedhinklater/Jellyfin-Featured-Content-Bar</text>
 <rect x="412" y="401" width="80" height="5" rx="2.5" fill="#eaeef2"/>
-<rect x="412.00" y="401" width="26.67" height="5" fill="#1a7f37"/>
-<text x="574" y="409" fill="#656d76" class="number" text-anchor="end">—</text>
-<text x="650" y="409" fill="#1a7f37" class="number" text-anchor="end">1</text>
+<rect x="412.00" y="401" width="26.67" height="5" fill="#8250df"/>
+<text x="574" y="409" fill="#8250df" class="number" text-anchor="end">1</text>
+<text x="650" y="409" fill="#656d76" class="number" text-anchor="end">—</text>
 </g>
-<text x="16" y="449" fill="#656d76" class="small">Merged and open PRs · all time</text>
-<text x="650" y="449" fill="#656d76" class="small" text-anchor="end">Updated 2026-10-14</text>
+<g><title>damontecres/jellyfin-plugin-wholphin</title>
+<text x="16" y="443" fill="#0969da" style="font-size:13px">damontecres/jellyfin-plugin-wholphin</text>
+<rect x="412" y="435" width="80" height="5" rx="2.5" fill="#eaeef2"/>
+<rect x="412.00" y="435" width="26.67" height="5" fill="#1a7f37"/>
+<text x="574" y="443" fill="#656d76" class="number" text-anchor="end">—</text>
+<text x="650" y="443" fill="#1a7f37" class="number" text-anchor="end">1</text>
+</g>
+<text x="16" y="483" fill="#656d76" class="small">Merged and open PRs · all time</text>
+<text x="650" y="483" fill="#656d76" class="small" text-anchor="end">Updated 2026-10-15</text>
 </svg>
